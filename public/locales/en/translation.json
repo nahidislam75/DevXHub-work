@@ -1,0 +1,9 @@
+{
+    "welcome":"Welcome to Tic Tac Toe Game and Internationalization language project",
+    "alertText":"This is an alert!(Applying Outside of Return)",
+    "hello": "Hello(Applying Outside React)",
+    "Inside":"inside",
+    "greeting":"Thank You (Applying Inside Render)",
+    "message":" Mokadderul Islam (Applying Inside Render)"
+
+}
